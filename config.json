@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfecrypt",
+        "uuid": 954720,
+        "checksum": "g37urg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
